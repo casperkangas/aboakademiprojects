@@ -17,3 +17,9 @@ time.sleep(0.5)
 print("")
 
 forsok = int(input("Hur många poäng behövs för att vinna? "))
+
+def stensaxpase():
+    print("Gör ditt val:")
+    print("1: Sten")
+    print("2: Sax")
+    print("3. Påse")
