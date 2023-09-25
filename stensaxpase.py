@@ -18,7 +18,7 @@ print("")
 
 forsok = int(input("Hur många poäng behövs för att vinna? "))
 
-def stensaxpase():
+def stenSaxPase():
     print("Gör ditt val:")
     print("1: Sten")
     print("2: Sax")
