@@ -23,3 +23,4 @@ def stenSaxPase():
     print("1: Sten")
     print("2: Sax")
     print("3. Påse")
+    
